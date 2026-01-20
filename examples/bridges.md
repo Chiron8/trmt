@@ -2,7 +2,7 @@
 
 ![bridges](/assets/trmt_v0_6_0_bridges_example.webp)
 
-### config
+### Config
 ```toml
 [simulation]
 heads = 4
